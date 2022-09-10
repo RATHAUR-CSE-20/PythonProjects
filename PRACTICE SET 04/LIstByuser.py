@@ -1,0 +1,10 @@
+l1=input("Enter First Fruit: ")
+l2=input("Enter Second Fruit: ")
+l3=input("Enter Third Fruit: ")
+l4=input("Enter Fourth Fruit: ")
+l5=input("Enter Fifth Fruit: ")
+l6=input("Enter Sixth Fruit: ")
+l7=input("Enter Seventh Fruit: ")
+fruits=[l1,l2,l3,l4,l5,l6,l7]
+print(fruits)
+input("Press Enter To Exit")

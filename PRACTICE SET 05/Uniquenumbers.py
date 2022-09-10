@@ -1,0 +1,11 @@
+n1=int(input("Enter first Number: "))
+n2=int(input("Enter Second Number: "))
+n3=int(input("Enter Third Number: "))
+n4=int(input("Enter Fourth Number: "))
+n5=int(input("Enter Fifth Number: "))
+n6=int(input("Enter Sixth Number: "))
+n7=int(input("Enter Seventh Number: "))
+n8=int(input("Enter Eighth Number: "))
+set={n1,n2,n3,n4,n5,n6,n7,n8}
+print(set)
+input("Press Enter To Exit")
